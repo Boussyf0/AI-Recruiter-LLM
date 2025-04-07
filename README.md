@@ -147,9 +147,7 @@ ai-recruiter-llm/
 └── logs/
 ```
 
-## License
 
-[MIT License](LICENSE)
 
 ## Contributing
 
