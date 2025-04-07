@@ -1,0 +1,58 @@
+=================================================
+  RAPPORT D'ÉVALUATION DU SYSTÈME DE MATCHING CV
+  2025-04-07 02:15:46
+=================================================
+
+1. DÉTECTION DU DOMAINE PROFESSIONNEL
+------------------------------------
+Précision: 66.67%
+Échantillons évalués: 3
+
+Matrice de confusion:
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+|                                |   informatique_reseaux |   automatismes_info_industrielle |   finance |   genie_civil_btp |   genie_industriel |
++================================+========================+==================================+===========+===================+====================+
+| informatique_reseaux           |                      0 |                                0 |         0 |                 0 |                  0 |
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+| automatismes_info_industrielle |                      1 |                                0 |         0 |                 0 |                  0 |
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+| finance                        |                      0 |                                0 |         1 |                 0 |                  0 |
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+| genie_civil_btp                |                      0 |                                0 |         0 |                 1 |                  0 |
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+| genie_industriel               |                      0 |                                0 |         0 |                 0 |                  0 |
++--------------------------------+------------------------+----------------------------------+-----------+-------------------+--------------------+
+
+2. EXTRACTION DES COMPÉTENCES
+----------------------------
+Précision: 41.48%
+Rappel: 35.38%
+F1-Score: 38.09%
+Échantillons évalués: 3
+
+3. QUALITÉ DU MATCHING
+---------------------
+Taux de correspondance de domaine: 0.00%
+Taux de correspondance de compétences: 0.00%
+Offres évaluées: 0
+
+4. SOMMAIRE DES CV TESTÉS
+------------------------
+CV: cv_test_complex
+  Domaine attendu: automatismes_info_industrielle
+  Compétences attendues: Python, DevOps, Docker, Kubernetes, AWS, Azure, TensorFlow, Siemens S7, TIA Portal, SCADA, OPC UA, IoT, MQTT
+  Notes: CV complexe avec double compétence informatique/automatismes. Le système doit déterminer correctement le domaine principal malgré la présence de compétences variées.
+
+CV: cv_test_finance
+  Domaine attendu: finance
+  Compétences attendues: Analyse financière, Contrôle de gestion, Comptabilité, SAP FI/CO, Oracle Financials, Excel, VBA, Power BI, IFRS, SQL
+  Notes: CV finance clair avec des compétences spécifiques au domaine. Doit être facilement identifié comme relevant du domaine finance.
+
+CV: cv_test_genie_civil
+  Domaine attendu: genie_civil_btp
+  Compétences attendues: Béton armé, Structures, Calculs parasismiques, Robot Structural, ETABS, AUTOCAD, Revit, BIM, Eurocodes, Fondations
+  Notes: CV génie civil typique. Doit être facilement identifié comme relevant du domaine génie civil/BTP.
+
+
+=================================================
+Rapport complet sauvegardé dans: data/evaluation/results/evaluation_results_20250407_021546.json

@@ -1,0 +1,33 @@
+JEAN DUPONT
+Ingénieur DevOps | Paris, France
+jean.dupont@exemple.com | +33 6 12 34 56 78 | github.com/jeandupont
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Senior DevOps Engineer, Cloud Solutions (2020-présent)
+- Administration d'infrastructures cloud sur AWS et Azure
+- Déploiement et gestion de clusters Kubernetes pour microservices
+- Automatisation CI/CD avec Jenkins, GitHub Actions et GitLab CI
+- Monitoring et observabilité avec Prometheus, Grafana et ELK
+
+Cloud Infrastructure Engineer, Tech Innovate (2018-2020)
+- Mise en place d'infrastructures IaC avec Terraform et CloudFormation
+- Migration d'applications monolithiques vers des architectures cloud-native
+- Implémentation de politiques de sécurité et conformité cloud
+- Optimisation des coûts cloud et amélioration des performances
+
+COMPÉTENCES TECHNIQUES
+
+- Cloud: AWS (EC2, EKS, S3, Lambda), Azure, GCP
+- Conteneurisation: Docker, Kubernetes, Helm
+- CI/CD: Jenkins, GitHub Actions, GitLab CI
+- IaC: Terraform, CloudFormation, Ansible
+- Monitoring: Prometheus, Grafana, ELK
+- Langages: Python, Bash, Go
+- Sécurité: Active Directory, IAM, sécurité réseau
+
+FORMATION
+
+- Ingénieur en Informatique, École Centrale Paris (2015-2018)
+- Certification AWS Solutions Architect & DevOps Engineer
+- Certification Kubernetes Administrator (CKA)

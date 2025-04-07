@@ -1,0 +1,131 @@
+{
+    "timestamp": "2025-04-07T02:15:46.704288",
+    "metrics": {
+        "domain_detection": {
+            "accuracy": 0.6666666666666666,
+            "samples": 3,
+            "confusion_matrix": [
+                [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0,
+                    1,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            ]
+        },
+        "skills_extraction": {
+            "precision": 0.4148148148148148,
+            "recall": 0.3538461538461539,
+            "f1": 0.38093058733791,
+            "samples": 3
+        },
+        "matching_quality": {
+            "domain_match_rate": 0.0,
+            "skills_match_rate": 0.0,
+            "samples": 0
+        }
+    },
+    "annotations": {
+        "cv_test_complex": {
+            "cv_file": "data/evaluation/cv_test/cv_test_complex.txt",
+            "main_domain": "automatismes_info_industrielle",
+            "skills": [
+                "Python",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "AWS",
+                "Azure",
+                "TensorFlow",
+                "Siemens S7",
+                "TIA Portal",
+                "SCADA",
+                "OPC UA",
+                "IoT",
+                "MQTT"
+            ],
+            "expected_job_titles": [
+                "Ingénieur DevOps",
+                "Ingénieur Automatismes",
+                "Ingénieur IoT",
+                "Ingénieur Systèmes Industriels"
+            ],
+            "notes": "CV complexe avec double compétence informatique/automatismes. Le système doit déterminer correctement le domaine principal malgré la présence de compétences variées."
+        },
+        "cv_test_finance": {
+            "cv_file": "data/evaluation/cv_test/cv_test_finance.txt",
+            "main_domain": "finance",
+            "skills": [
+                "Analyse financière",
+                "Contrôle de gestion",
+                "Comptabilité",
+                "SAP FI/CO",
+                "Oracle Financials",
+                "Excel",
+                "VBA",
+                "Power BI",
+                "IFRS",
+                "SQL"
+            ],
+            "expected_job_titles": [
+                "Responsable Contrôle de Gestion",
+                "Directeur Financier",
+                "Analyste Financier",
+                "Contrôleur de Gestion"
+            ],
+            "notes": "CV finance clair avec des compétences spécifiques au domaine. Doit être facilement identifié comme relevant du domaine finance."
+        },
+        "cv_test_genie_civil": {
+            "cv_file": "data/evaluation/cv_test/cv_test_genie_civil.txt",
+            "main_domain": "genie_civil_btp",
+            "skills": [
+                "Béton armé",
+                "Structures",
+                "Calculs parasismiques",
+                "Robot Structural",
+                "ETABS",
+                "AUTOCAD",
+                "Revit",
+                "BIM",
+                "Eurocodes",
+                "Fondations"
+            ],
+            "expected_job_titles": [
+                "Ingénieur Structures",
+                "Chef de Projet BTP",
+                "Ingénieur Génie Civil",
+                "Ingénieur d'Études Structures"
+            ],
+            "notes": "CV génie civil typique. Doit être facilement identifié comme relevant du domaine génie civil/BTP."
+        }
+    }
+}

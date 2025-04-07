@@ -1,0 +1,16 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-dotenv==1.0.0
+httpx==0.24.1
+qdrant-client==1.5.0
+python-multipart==0.0.6
+PyJWT==2.8.0
+PyPDF2==3.0.1
+pytesseract==0.3.10
+Pillow==10.0.1
+
+# Sentence transformers peut être installé séparément dans une étape supplémentaire
+# ou après le lancement du conteneur pour éviter les problèmes de timeout
+# sentence-transformers==2.2.2
+

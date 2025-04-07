@@ -1,0 +1,68 @@
+Sofia Martinez
+DevOps Engineer / Cloud Architect
+
+Contact: sofia.martinez@example.com | +212 6 98 76 54 32 | Rabat, Maroc
+
+RÉSUMÉ
+------
+Ingénieure DevOps avec 5 ans d'expérience dans la mise en place et la gestion d'infrastructures cloud. Spécialiste en automatisation, conteneurisation et déploiement continu. Passionnée par les architectures distribuées et les pratiques DevSecOps. À la recherche de nouveaux défis dans un environnement technologique innovant.
+
+COMPÉTENCES
+-----------
+Plateformes Cloud: AWS, Google Cloud Platform, Azure
+Conteneurisation: Docker, Kubernetes, OpenShift
+CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
+Infrastructure as Code: Terraform, Ansible, CloudFormation
+Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+Langages: Python, Bash, Go, YAML, HCL
+Base de données: PostgreSQL, MongoDB, Redis
+Sécurité: Vault, IAM, RBAC, Scanner de vulnérabilités
+
+EXPÉRIENCE PROFESSIONNELLE
+--------------------------
+CLOUD ARCHITECT | Cloudsys Technologies | 2022 - Présent
+- Conception et implémentation d'une infrastructure multi-cloud sécurisée
+- Migration de plus de 50 applications vers Kubernetes
+- Mise en place d'une solution de CI/CD entièrement automatisée
+- Réduction de 40% des coûts d'infrastructure cloud
+- Formation des équipes de développement aux pratiques DevOps
+
+DEVOPS ENGINEER | DataTech Solutions | 2020 - 2022
+- Implémentation de pipelines CI/CD avec Jenkins et GitLab
+- Déploiement et gestion d'applications conteneurisées avec Docker et Kubernetes
+- Automatisation de l'infrastructure avec Terraform et Ansible
+- Mise en place de solutions de monitoring et d'alerte (Prometheus, Grafana)
+- Participation à la migration vers le cloud (AWS)
+
+SRE (SITE RELIABILITY ENGINEER) | TechForward | 2018 - 2020
+- Gestion de la disponibilité et des performances des applications
+- Implémentation de pratiques SRE (SLO, SLI, Error Budget)
+- Automatisation des tâches de maintenance et réponse aux incidents
+- Développement d'outils internes pour améliorer la productivité
+
+FORMATION
+---------
+MASTER EN INFORMATIQUE | INPT Rabat | 2018
+Spécialisation en Réseaux et Systèmes Distribués
+
+INGÉNIEUR EN TÉLÉCOMMUNICATIONS | ENSIAS, Rabat | 2016
+
+CERTIFICATIONS
+-------------
+- AWS Certified Solutions Architect - Professional
+- Certified Kubernetes Administrator (CKA)
+- Google Cloud Professional Cloud Architect
+- HashiCorp Certified Terraform Associate
+
+PROJETS PERSONNELS
+-----------------
+- CloudAutomator: Framework open source pour l'automatisation du déploiement multi-cloud
+- K8s-Monitor: Solution de monitoring pour clusters Kubernetes (Go, Prometheus)
+- InfraCode: Bibliothèque de modules Terraform réutilisables pour différentes plateformes cloud
+
+LANGUES
+-------
+- Espagnol: Langue maternelle
+- Français: Bilingue
+- Anglais: Courant
+- Arabe: Notions 

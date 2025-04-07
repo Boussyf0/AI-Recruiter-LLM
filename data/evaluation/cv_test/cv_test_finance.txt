@@ -1,0 +1,76 @@
+CURRICULUM VITAE
+
+Alexandre DUBOIS
+Expert en Finance & Contrôle de Gestion
+alexandre.dubois@email.com | +33 6 87 65 43 21
+Lyon, France
+
+----------------------------
+PROFIL PROFESSIONNEL
+----------------------------
+Professionnel de la finance avec 10 ans d'expérience dans le contrôle de gestion, l'analyse financière et le reporting. 
+Spécialiste des systèmes d'information financiers et de l'optimisation des processus comptables. 
+Expertise reconnue dans l'accompagnement à la prise de décision stratégique basée sur l'analyse de données financières.
+
+----------------------------
+COMPÉTENCES TECHNIQUES
+----------------------------
+• Finance: Analyse financière, Contrôle de gestion, Comptabilité, Fiscalité, Trésorerie
+• Reporting: Tableaux de bord, KPI, Prévisions budgétaires, Business plan
+• Systèmes: SAP FI/CO/BPC, Oracle Financials, Microsoft Dynamics
+• Outils: Excel avancé, VBA, Power BI, Tableau, QlikView
+• Normes: IFRS, US GAAP, Sarbanes-Oxley, Bâle III
+• IT: SQL, Python (bases), Data Visualization, Automatisation de rapports
+
+----------------------------
+EXPÉRIENCE PROFESSIONNELLE
+----------------------------
+
+RESPONSABLE CONTRÔLE DE GESTION | Groupe Financière Alpha | 2018 - Présent
+• Supervision d'une équipe de 5 contrôleurs de gestion
+• Mise en place du processus budgétaire annuel et forecasts trimestriels
+• Optimisation du closing mensuel (réduction des délais de 5 à 3 jours)
+• Développement d'un tableau de bord de la performance pour le comité exécutif
+• Implémentation d'un nouveau module SAP BPC pour le reporting consolidé
+• Réalisation d'analyses ad hoc pour les projets d'investissement stratégiques
+
+SENIOR FINANCIAL ANALYST | BankTech International | 2015 - 2018
+• Analyse de la rentabilité par business unit et par produit
+• Élaboration des reportings financiers mensuels et trimestriels
+• Participation aux due diligence pour 3 acquisitions majeures
+• Refonte du modèle d'allocation des coûts indirects
+• Développement d'outils d'analyse prédictive des coûts
+• Support aux auditeurs internes et externes
+
+CONTRÔLEUR DE GESTION | IndusManu Corp | 2012 - 2015
+• Suivi des coûts de production et analyse des écarts
+• Calcul et analyse des marges par produit et par client
+• Participation à la mise en place d'un système de coûts standards
+• Réalisation des clôtures mensuelles et reporting groupe
+• Formation des opérationnels à la gestion budgétaire
+• Amélioration des processus de prévision de trésorerie
+
+----------------------------
+FORMATION
+----------------------------
+• Master en Finance d'Entreprise, EM Lyon Business School (2012)
+• DSCG (Diplôme Supérieur de Comptabilité et Gestion), (2013)
+• Certification ACCA (Association of Chartered Certified Accountants)
+• Formation SAP FI/CO Certified Application Associate
+• Executive Program en Financial Leadership, INSEAD (2019)
+
+----------------------------
+PROJETS SPÉCIFIQUES
+----------------------------
+• Chef de projet pour la transition vers les normes IFRS 16
+• Responsable de la refonte du système de reporting consolidé
+• Mise en place d'un datawarehouse financier avec Power BI
+• Développement d'une solution d'automatisation des rapports financiers avec Python
+• Création d'un modèle d'évaluation de la performance des investissements
+
+----------------------------
+LANGUES
+----------------------------
+• Français: Langue maternelle
+• Anglais: Courant (TOEIC 910/990)
+• Espagnol: Intermédiaire (B1) 

@@ -1,0 +1,24 @@
+# Dépendances pour les modèles de langage
+transformers>=4.33.0
+torch==2.0.1
+accelerate>=0.21.0
+bitsandbytes>=0.39.0
+sentencepiece>=0.1.98
+peft>=0.4.0
+tqdm>=4.65.0
+
+# API et serveur
+fastapi>=0.103.1
+uvicorn>=0.23.2
+pydantic>=2.3.0
+
+# Outils pour les tests et scripts utilitaires
+requests>=2.31.0
+colorama>=0.4.6
+pandas>=2.0.0
+numpy>=1.24.0
+datasets>=2.13.0
+
+# Optionnel - pour quantification
+scipy>=1.11.1
+einops>=0.6.0 

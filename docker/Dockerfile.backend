@@ -1,0 +1,39 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Installer les dépendances pour le traitement des PDF et OCR
+RUN apt-get update && apt-get install -y \
+    tesseract-ocr \
+    tesseract-ocr-fra \
+    tesseract-ocr-eng \
+    poppler-utils \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copier le fichier de dépendances
+COPY backend/requirements.txt .
+
+# Installer les dépendances Python
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt \
+    PyPDF2 \
+    python-dotenv \
+    uvicorn \
+    httpx \
+    python-multipart \
+    pillow \
+    pytesseract \
+    qdrant-client==1.5.0 \
+    uuid
+
+# Copier le code source
+COPY backend/app /app/app/
+
+# Créer les répertoires nécessaires
+RUN mkdir -p /app/uploads /app/data
+
+# Exposer le port
+EXPOSE 8000
+
+# Commande pour démarrer le service
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]

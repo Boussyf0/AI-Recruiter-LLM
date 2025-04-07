@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Ingénieur en informatique avec 5 ans d'expérience en développement Python, JavaScript et DevOps.\n                          Compétences en AWS, Docker, Kubernetes et CI/CD. Expérience en gestion de projets Agile.",
+    "expected_domain": "informatique_reseaux",
+    "expected_skills": [
+      "Python",
+      "JavaScript",
+      "DevOps",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Agile"
+    ]
+  },
+  {
+    "text": "Automaticien industriel spécialisé en programmation d'automates Siemens et Schneider.\n                          Expérience en conception de systèmes SCADA, HMI et en intégration de robots industriels.\n                          Maîtrise de TIA Portal, Unity Pro et des protocoles Profinet.",
+    "expected_domain": "automatismes_info_industrielle",
+    "expected_skills": [
+      "SCADA",
+      "Siemens",
+      "Schneider",
+      "HMI",
+      "TIA Portal",
+      "Unity Pro",
+      "Profinet"
+    ]
+  },
+  {
+    "text": "Analyste financier avec expertise en contrôle de gestion et comptabilité.\n                          Maîtrise des logiciels SAP, Excel VBA et des techniques d'audit.\n                          Expérience en élaboration de budgets, prévisions et tableaux de bord.",
+    "expected_domain": "finance",
+    "expected_skills": [
+      "SAP",
+      "Excel VBA",
+      "Audit",
+      "Comptabilité",
+      "Contrôle de gestion"
+    ]
+  },
+  {
+    "text": "Ingénieur en génie civil spécialisé en conception de structures en béton armé.\n                          Expérience en suivi de chantier et coordination de travaux.\n                          Maîtrise d'AutoCAD, Revit et des normes de construction.",
+    "expected_domain": "genie_civil_btp",
+    "expected_skills": [
+      "AutoCAD",
+      "Revit",
+      "Béton armé",
+      "Chantier"
+    ]
+  },
+  {
+    "text": "Responsable de production industrielle avec expertise en lean manufacturing.\n                          Expérience en optimisation de processus, gestion de chaîne logistique et qualité.\n                          Maîtrise des méthodes 5S, Kaizen et Six Sigma.",
+    "expected_domain": "genie_industriel",
+    "expected_skills": [
+      "Lean",
+      "5S",
+      "Kaizen",
+      "Six Sigma",
+      "Logistique",
+      "Qualité"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+    "sessions": [
+        {
+            "session_id": "88b2a6aee6d8cb0e12d72f9880c54dba",
+            "timestamp": "2025-04-06T04:29:51.860365",
+            "cv_domain": "informatique_reseaux",
+            "feedback": {
+                "job_ratings": [
+                    {
+                        "job_id": "6d002f92-d78f-4893-8a9b-cfb9fc808446",
+                        "title": "DevOps Engineer Senior",
+                        "system_score": 0.260933203,
+                        "user_rating": 1,
+                        "comment": "uu"
+                    },
+                    {
+                        "job_id": "8b05549f-62cf-4db7-831c-196b702c39c8",
+                        "title": "Développeur Full Stack JavaScript",
+                        "system_score": 0.24871761,
+                        "user_rating": 4,
+                        "comment": "uyy"
+                    },
+                    {
+                        "job_id": "806e809c-255c-4def-ac92-4645ca2ab021",
+                        "title": "Développeur Full Stack JavaScript",
+                        "system_score": 0.245499936,
+                        "user_rating": 4,
+                        "comment": "uuuip"
+                    }
+                ],
+                "overall_rating": 4,
+                "comments": "hhh",
+                "domain": "informatique_reseaux",
+                "skills": [
+                    "devops"
+                ],
+                "feedback_date": "2025-04-06T04:29:51.859822"
+            }
+        }
+    ]
+}

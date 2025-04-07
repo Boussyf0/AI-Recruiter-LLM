@@ -1,0 +1,126 @@
+{
+  "domain_accuracy": 1.0,
+  "skill_precision": 0.8861111111111111,
+  "skill_recall": 0.7133333333333333,
+  "skill_f1": 0.7903901817760796,
+  "detailed_results": [
+    {
+      "cv_idx": 1,
+      "expected_domain": "informatique_reseaux",
+      "predicted_domain": "informatique_reseaux",
+      "domain_correct": true,
+      "expected_skills": [
+        "Python",
+        "JavaScript",
+        "DevOps",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Agile"
+      ],
+      "predicted_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "DevOps",
+        "CI/CD",
+        "Agile"
+      ],
+      "skill_precision": 0.8888888888888888,
+      "skill_recall": 1.0
+    },
+    {
+      "cv_idx": 2,
+      "expected_domain": "automatismes_info_industrielle",
+      "predicted_domain": "automatismes_info_industrielle",
+      "domain_correct": true,
+      "expected_skills": [
+        "SCADA",
+        "Siemens",
+        "Schneider",
+        "HMI",
+        "TIA Portal",
+        "Unity Pro",
+        "Profinet"
+      ],
+      "predicted_skills": [
+        "SCADA",
+        "HMI",
+        "Siemens",
+        "Schneider",
+        "TIA Portal",
+        "Unity Pro",
+        "Profinet",
+        "Robot"
+      ],
+      "skill_precision": 0.875,
+      "skill_recall": 1.0
+    },
+    {
+      "cv_idx": 3,
+      "expected_domain": "finance",
+      "predicted_domain": "finance",
+      "domain_correct": true,
+      "expected_skills": [
+        "SAP",
+        "Excel VBA",
+        "Audit",
+        "Comptabilité",
+        "Contrôle de gestion"
+      ],
+      "predicted_skills": [
+        "SAP",
+        "Excel VBA",
+        "Tableau"
+      ],
+      "skill_precision": 0.6666666666666666,
+      "skill_recall": 0.4
+    },
+    {
+      "cv_idx": 4,
+      "expected_domain": "genie_civil_btp",
+      "predicted_domain": "genie_civil_btp",
+      "domain_correct": true,
+      "expected_skills": [
+        "AutoCAD",
+        "Revit",
+        "Béton armé",
+        "Chantier"
+      ],
+      "predicted_skills": [
+        "AutoCAD",
+        "Revit"
+      ],
+      "skill_precision": 1.0,
+      "skill_recall": 0.5
+    },
+    {
+      "cv_idx": 5,
+      "expected_domain": "genie_industriel",
+      "predicted_domain": "genie_industriel",
+      "domain_correct": true,
+      "expected_skills": [
+        "Lean",
+        "5S",
+        "Kaizen",
+        "Six Sigma",
+        "Logistique",
+        "Qualité"
+      ],
+      "predicted_skills": [
+        "Lean",
+        "Six Sigma",
+        "Kaizen",
+        "5S"
+      ],
+      "skill_precision": 1.0,
+      "skill_recall": 0.6666666666666666
+    }
+  ],
+  "timestamp": "2025-04-07T01:29:11.412789",
+  "test_cases": 5
+}

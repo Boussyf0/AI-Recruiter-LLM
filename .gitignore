@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Data folders
+data/huggingface_cache/
+data/vector_db/logs/
+logs/*.log
+.qdrant/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Node modules
+**/node_modules/
+
+# Ignore les grands modèles et fichiers de données
+models/
+data/huggingface_cache/
+data/vector_db/
+data/scraped_jobs/
+data/*.json
+
+# Répertoires de node_modules
+chatbot-ui/node_modules/
+frontend/node_modules/
+**/node_modules/
+
+# Fichiers de build frontend
+chatbot-ui/.next/
+frontend/.next/
+**/build/
+**/dist/
+
+# Fichiers LFS
+.git/lfs/
+
+# Fichiers binaires et volumineux
+*.safetensors
+*.onnx
+*.bin
+*.pack
+*.pack.gz
+*.mmap

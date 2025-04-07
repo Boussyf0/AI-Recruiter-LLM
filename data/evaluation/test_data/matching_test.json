@@ -1,0 +1,78 @@
+{
+  "jobs": [
+    {
+      "id": "job_info_1",
+      "title": "Développeur Full Stack 1",
+      "company": "TechCorp 1",
+      "domain": "informatique_reseaux",
+      "description": "Nous recherchons un développeur Full Stack \n                                expérimenté pour rejoindre notre équipe. Compétences requises: \n                                JavaScript, React, Node.js, \n                                Git, Agile."
+    },
+    {
+      "id": "job_info_2",
+      "title": "Développeur Python 2",
+      "company": "TechCorp 2",
+      "domain": "informatique_reseaux",
+      "description": "Nous recherchons un développeur Python \n                                expérimenté pour rejoindre notre équipe. Compétences requises: \n                                Python, Django, Flask, \n                                Git, Agile."
+    },
+    {
+      "id": "job_info_3",
+      "title": "Développeur Full Stack 3",
+      "company": "TechCorp 3",
+      "domain": "informatique_reseaux",
+      "description": "Nous recherchons un développeur Full Stack \n                                expérimenté pour rejoindre notre équipe. Compétences requises: \n                                JavaScript, React, Node.js, \n                                Git, Agile."
+    },
+    {
+      "id": "job_info_4",
+      "title": "Développeur Python 4",
+      "company": "TechCorp 4",
+      "domain": "informatique_reseaux",
+      "description": "Nous recherchons un développeur Python \n                                expérimenté pour rejoindre notre équipe. Compétences requises: \n                                Python, Django, Flask, \n                                Git, Agile."
+    },
+    {
+      "id": "job_info_5",
+      "title": "Développeur Full Stack 5",
+      "company": "TechCorp 5",
+      "domain": "informatique_reseaux",
+      "description": "Nous recherchons un développeur Full Stack \n                                expérimenté pour rejoindre notre équipe. Compétences requises: \n                                JavaScript, React, Node.js, \n                                Git, Agile."
+    },
+    {
+      "id": "job_finance_1",
+      "title": "Analyste Financier 1",
+      "company": "FinGroup 1",
+      "domain": "finance",
+      "description": "Poste d'analyste financier pour notre département Contrôle.\n                                Compétences: Excel avancé, SAP Finance, reporting financier."
+    },
+    {
+      "id": "job_finance_2",
+      "title": "Analyste Financier 2",
+      "company": "FinGroup 2",
+      "domain": "finance",
+      "description": "Poste d'analyste financier pour notre département Trésorerie.\n                                Compétences: Excel avancé, SAP Finance, reporting financier."
+    },
+    {
+      "id": "job_finance_3",
+      "title": "Analyste Financier 3",
+      "company": "FinGroup 3",
+      "domain": "finance",
+      "description": "Poste d'analyste financier pour notre département Audit.\n                                Compétences: Excel avancé, SAP Finance, reporting financier."
+    }
+  ],
+  "test_cases": [
+    {
+      "cv_text": "Développeur Python avec 3 ans d'expérience en développement web.\n                            Compétences: Python, Django, Flask, JavaScript, SQL, Git, Linux.\n                            Expérience en méthodologie Agile et DevOps.",
+      "domain": "informatique_reseaux",
+      "relevant_job_ids": [
+        "job_info_2",
+        "job_info_4"
+      ]
+    },
+    {
+      "cv_text": "Analyste financier junior avec expertise en contrôle de gestion.\n                            Maîtrise d'Excel, PowerBI et SAP Finance. \n                            Expérience en audit et reporting financier.",
+      "domain": "finance",
+      "relevant_job_ids": [
+        "job_finance_1",
+        "job_finance_2"
+      ]
+    }
+  ]
+}

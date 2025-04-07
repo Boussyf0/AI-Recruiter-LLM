@@ -1,0 +1,58 @@
+Mohammed El Mahdi
+Développeur Python Senior / Data Engineer
+
+Contact: elmahdi@example.com | +212 6 12 34 56 78 | Casablanca, Maroc
+
+RÉSUMÉ
+------
+Développeur Python senior avec 7 ans d'expérience, spécialisé dans les technologies web, l'ingénierie des données et le cloud. Fort d'une expertise dans le développement backend et les architectures distribuées, je cherche à apporter ma contribution à des projets innovants dans le domaine de l'IA et du traitement de données.
+
+COMPÉTENCES
+-----------
+Langages: Python (expert), SQL, JavaScript, Java
+Frameworks: Django, Flask, FastAPI, Apache Airflow
+Data Engineering: Pandas, Spark, Hadoop, ETL pipelines
+Base de données: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+Outils: Git, CI/CD, Jira, Confluence
+
+EXPÉRIENCE PROFESSIONNELLE
+--------------------------
+DATA ENGINEER | DataTech Solutions | 2022 - Présent
+- Conception et développement de pipelines ETL avec Apache Airflow et Spark
+- Optimisation des requêtes SQL et des processus d'ingestion de données à grande échelle
+- Mise en place d'une architecture microservices pour le traitement de données en temps réel
+- Encadrement technique d'une équipe de 3 développeurs juniors
+
+DÉVELOPPEUR BACKEND SENIOR | TechInnov | 2019 - 2022
+- Développement d'APIs RESTful avec Django et FastAPI
+- Implémentation de solutions de stockage et d'analyse de données
+- Migration d'applications monolithiques vers une architecture microservices
+- Optimisation des performances d'application avec plus de 100K utilisateurs quotidiens
+
+DÉVELOPPEUR PYTHON | WebSolutions | 2017 - 2019
+- Développement et maintenance d'applications web Python/Django
+- Intégration de services tiers via APIs (paiement, cartographie, analyse)
+- Automatisation de tâches avec des scripts Python
+- Déploiement continu avec Jenkins et Docker
+
+FORMATION
+---------
+MASTER EN INFORMATIQUE | Université Mohammed V, Rabat | 2017
+Spécialisation en Sciences des Données et Systèmes Distribués
+
+LICENCE EN GÉNIE LOGICIEL | ENSIAS, Rabat | 2015
+Major de promotion
+
+PROJETS PERSONNELS
+-----------------
+- DataFlow: Outil open source pour la gestion de pipelines de données (Python, Airflow)
+- MarketAnalyzer: Application d'analyse de marché temps réel (Python, Pandas, MongoDB)
+- SmartScraper: Framework de scraping web intelligent avec rotation de proxies et gestion des captchas
+
+LANGUES
+-------
+- Arabe: Langue maternelle
+- Français: Bilingue
+- Anglais: Professionnel
+- Espagnol: Notions 

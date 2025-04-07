@@ -1,0 +1,46 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Installer git pour clone les repos
+RUN apt-get update && apt-get install -y \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Mettre à jour pip
+RUN pip install --no-cache-dir --upgrade pip
+
+# Installer PyTorch avec CUDA
+RUN pip install --no-cache-dir torch==2.0.1 torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cpu
+
+# Installer les dépendances pour la quantification et l'optimisation
+RUN pip install --no-cache-dir --timeout=100 \
+    numpy==1.24.3 \
+    bitsandbytes \
+    accelerate \
+    scipy \
+    sentencepiece \
+    einops
+
+# Installer les dépendances pour l'inférence
+RUN pip install --no-cache-dir --timeout=100 \
+    transformers==4.31.0 \
+    tokenizers==0.13.3 \
+    fastapi \
+    uvicorn \
+    pydantic \
+    peft \
+    openai \
+    datasets
+
+# Copier le code source
+COPY llm/ /app/
+
+# Créer le répertoire pour les données
+RUN mkdir -p /app/data
+
+# Exposer le port
+EXPOSE 8001
+
+# Commande pour démarrer le service
+CMD ["uvicorn", "inference:app", "--host", "0.0.0.0", "--port", "8001", "--reload"]

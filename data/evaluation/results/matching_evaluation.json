@@ -1,0 +1,93 @@
+{
+  "precision": 0.6666666666666666,
+  "recall": 1.0,
+  "f1": 0.8,
+  "detailed_results": [
+    {
+      "test_idx": 1,
+      "expected_domain": "informatique_reseaux",
+      "relevant_job_ids": [
+        "job_info_4",
+        "job_info_2"
+      ],
+      "matched_job_ids": [
+        "job_info_4",
+        "job_info_2",
+        "job_info_1"
+      ],
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8,
+      "top_matches": [
+        {
+          "id": "job_info_2",
+          "title": "Développeur Python 2",
+          "company": "TechCorp 2",
+          "domain": "informatique_reseaux",
+          "score": 0.7500000000000002,
+          "skill_matches": 5
+        },
+        {
+          "id": "job_info_4",
+          "title": "Développeur Python 4",
+          "company": "TechCorp 4",
+          "domain": "informatique_reseaux",
+          "score": 0.7500000000000002,
+          "skill_matches": 5
+        },
+        {
+          "id": "job_info_1",
+          "title": "Développeur Full Stack 1",
+          "company": "TechCorp 1",
+          "domain": "informatique_reseaux",
+          "score": 0.7000000000000002,
+          "skill_matches": 4
+        }
+      ]
+    },
+    {
+      "test_idx": 2,
+      "expected_domain": "finance",
+      "relevant_job_ids": [
+        "job_finance_2",
+        "job_finance_1"
+      ],
+      "matched_job_ids": [
+        "job_finance_2",
+        "job_finance_1",
+        "job_finance_3"
+      ],
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8,
+      "top_matches": [
+        {
+          "id": "job_finance_1",
+          "title": "Analyste Financier 1",
+          "company": "FinGroup 1",
+          "domain": "finance",
+          "score": 0.6000000000000001,
+          "skill_matches": 2
+        },
+        {
+          "id": "job_finance_2",
+          "title": "Analyste Financier 2",
+          "company": "FinGroup 2",
+          "domain": "finance",
+          "score": 0.6000000000000001,
+          "skill_matches": 2
+        },
+        {
+          "id": "job_finance_3",
+          "title": "Analyste Financier 3",
+          "company": "FinGroup 3",
+          "domain": "finance",
+          "score": 0.6000000000000001,
+          "skill_matches": 2
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-04-07T01:29:11.413627",
+  "test_cases": 2
+}

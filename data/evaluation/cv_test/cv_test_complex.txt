@@ -1,0 +1,74 @@
+CURRICULUM VITAE
+
+Sophie MARTIN
+Ingénieure Multidisciplinaire
+sophie.martin@email.com | +33 6 12 34 56 78
+Paris, France
+
+----------------------------
+PROFIL PROFESSIONNEL
+----------------------------
+Ingénieure expérimentée avec double compétence en informatique et automatismes industriels. 
+Forte d'une expérience en gestion de projets transverses, je m'intéresse aux technologies innovantes 
+à l'intersection de l'IT et de l'OT. Spécialisée dans l'optimisation des processus industriels grâce 
+aux technologies cloud et à l'intelligence artificielle.
+
+----------------------------
+COMPÉTENCES TECHNIQUES
+----------------------------
+• Langages: Python, C++, JavaScript, SQL, PL/SQL
+• DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD
+• Cloud: AWS (EC2, S3, Lambda), Azure
+• IA/Data: TensorFlow, scikit-learn, pandas, NumPy
+• Automatismes: Siemens S7, TIA Portal, SCADA, OPC UA
+• IoT/IIoT: MQTT, Node-RED, Azure IoT Hub
+• Gestion financière: SAP FI/CO, Power BI
+• Industrielle: Lean Manufacturing, Six Sigma (Green Belt)
+
+----------------------------
+EXPÉRIENCE PROFESSIONNELLE
+----------------------------
+
+INGÉNIEURE DEVOPS & AUTOMATISMES | IndustrieTech | 2019 - Présent
+• Mise en place d'une architecture hybride connectant les systèmes SCADA à AWS pour analyse prédictive
+• Développement d'une plateforme IoT pour surveiller et contrôler les automates industriels à distance
+• Implémentation de solutions DevOps pour automatiser les déploiements d'applications industrielles
+• Optimisation des coûts d'infrastructure cloud (-30%) tout en améliorant la disponibilité des services
+• Création de tableaux de bord financiers pour l'analyse ROI des projets d'automatisation
+
+CONSULTANTE EN TRANSFORMATION DIGITALE | Cabinet TechConsult | 2016 - 2019
+• Audit et optimisation des processus industriels pour 5 clients majeurs du secteur manufacturier
+• Conception et développement d'une solution de traçabilité basée sur blockchain pour l'industrie pharmaceutique
+• Mise en place d'une architecture microservices pour remplacer des systèmes legacy
+• Analyse financière et budgétisation des projets de transformation numérique
+• Formation des équipes opérationnelles aux méthodologies agiles et aux pratiques DevOps
+
+INGÉNIEURE AUTOMATICIENNE | AutoControl Systems | 2013 - 2016
+• Programmation d'automates Siemens S7-1500 et développement d'interfaces HMI
+• Configuration et maintenance de systèmes SCADA pour une usine de production chimique
+• Intégration de systèmes MES avec les ERP des clients
+• Mise en œuvre de solutions de contrôle qualité automatisées avec vision industrielle
+• Optimisation des lignes de production via l'analyse de données (réduction des temps d'arrêt de 25%)
+
+----------------------------
+FORMATION
+----------------------------
+• Diplôme d'Ingénieur en Systèmes Embarqués et Automatismes, École Centrale Paris (2013)
+• Master Spécialisé en Data Science et Intelligence Artificielle, Télécom Paris (2018)
+• Certification AWS Solutions Architect Associate
+• Certification Siemens TIA Portal Professional
+• Six Sigma Green Belt
+
+----------------------------
+PROJETS PERSONNELS
+----------------------------
+• Développement d'une plateforme open-source pour la surveillance prédictive des machines industrielles
+• Création d'un framework Python pour interfacer des automates Siemens avec des services cloud
+• Contribution à plusieurs projets open-source liés à l'IIoT et aux protocoles industriels
+
+----------------------------
+LANGUES
+----------------------------
+• Français: Langue maternelle
+• Anglais: Courant (TOEIC 950/990)
+• Allemand: Niveau B2 

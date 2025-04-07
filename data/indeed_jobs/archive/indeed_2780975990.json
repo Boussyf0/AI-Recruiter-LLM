@@ -1,0 +1,26 @@
+{
+  "title": "Ingénieur Cloud AWS",
+  "company": "CloudNative Maroc",
+  "location": "Casablanca, Maroc",
+  "country": "Maroc",
+  "description": "En tant qu'Ingénieur Cloud AWS, vous concevrez et déploierez des architectures cloud scalables et sécurisées. Vous travaillerez sur l'automatisation des infrastructures avec Terraform et CloudFormation, et participerez à l'optimisation des coûts et des performances. Certification AWS et expérience avec les services AWS (EC2, S3, RDS, Lambda) requises.",
+  "url": "https://ma.indeed.com/viewjob?jk=456789123",
+  "date_posted": "2025-04-06",
+  "salary": "16000-24000 MAD par mois",
+  "match_score": 0.65,
+  "rank": 3,
+  "metadata": {
+    "title": "Ingénieur Cloud AWS",
+    "company": "CloudNative Maroc",
+    "location": "Casablanca, Maroc",
+    "domain": "informatique_reseaux",
+    "country": "Maroc",
+    "salary": "16000-24000 MAD par mois",
+    "source": "indeed",
+    "url": "https://ma.indeed.com/viewjob?jk=456789123",
+    "score": 0.65,
+    "date_posted": "2025-04-06",
+    "scraped_date": "2025-04-06T05:26:47.594017"
+  },
+  "content": "Ingénieur Cloud AWS - CloudNative Maroc\n\nEn tant qu'Ingénieur Cloud AWS, vous concevrez et déploierez des architectures cloud scalables et sécurisées. Vous travaillerez sur l'automatisation des infrastructures avec Terraform et CloudFormation, et participerez à l'optimisation des coûts et des performances. Certification AWS et expérience avec les services AWS (EC2, S3, RDS, Lambda) requises."
+}

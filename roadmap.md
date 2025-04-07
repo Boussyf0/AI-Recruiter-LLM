@@ -1,0 +1,3 @@
+- [ ] Setup backend
+- [ ] Setup LLM
+- [ ] Build frontend

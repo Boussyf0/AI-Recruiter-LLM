@@ -1,0 +1,15 @@
+[server]
+runOnSave = false
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+magicEnabled = true
+
+[theme]
+primaryColor = "#3684e3"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730" 

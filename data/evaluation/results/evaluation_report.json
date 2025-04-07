@@ -1,0 +1,17 @@
+{
+  "model_evaluation": {
+    "domain_detection": {
+      "accuracy": 1.0,
+      "skill_precision": 0.8861111111111111,
+      "skill_recall": 0.7133333333333333,
+      "skill_f1": 0.7903901817760796
+    },
+    "matching": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8
+    }
+  },
+  "timestamp": "2025-04-07T01:29:11.414353",
+  "summary": "Évaluation réalisée sur 5 cas de test pour la détection de domaine et 2 cas pour le matching."
+}

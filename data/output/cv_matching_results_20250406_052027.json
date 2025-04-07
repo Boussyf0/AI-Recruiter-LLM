@@ -1,0 +1,78 @@
+{
+    "timestamp": "2025-04-06T05:20:25.165106",
+    "cv_analysis": {
+        "main_domain": "informatique_reseaux",
+        "domain_scores": {
+            "informatique_reseaux": 0.65,
+            "automatismes_info_industrielle": 0.5,
+            "finance": 0.5142857142857142,
+            "genie_civil_btp": 0.5441176470588235,
+            "genie_industriel": 0.564516129032258
+        },
+        "skills": [
+            "python",
+            "docker",
+            "kubernetes",
+            "aws",
+            "azure",
+            "gcp",
+            "devops",
+            "ci/cd",
+            "jenkins",
+            "git",
+            "security",
+            "cloud"
+        ],
+        "is_fallback": true
+    },
+    "results": [
+        {
+            "id": "job001",
+            "rank": 1,
+            "title": "DevOps Engineer Senior",
+            "company": "TechCloud Solutions",
+            "domain": "informatique_reseaux",
+            "description": "Nous recherchons un ingénieur DevOps expérimenté pour gérer notre infrastructure cloud et améliorer nos pipelines CI/CD.",
+            "raw_score": 0.75,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.15,
+            "matched_skills": 3,
+            "score": 1.0,
+            "domain_match": "✅"
+        },
+        {
+            "id": "job003_var",
+            "rank": 4,
+            "title": "DevOps Engineer Senior (Variante 2) (Variante 3)",
+            "company": "TechCloud Solutions B C",
+            "domain": "informatique_reseaux",
+            "description": "Nous recherchons un ingénieur DevOps expérimenté pour gérer notre infrastructure cloud.",
+            "raw_score": 0.7,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.1,
+            "matched_skills": 2,
+            "score": 0.9,
+            "domain_match": "✅"
+        },
+        {
+            "id": "job003",
+            "rank": 3,
+            "title": "Ingénieur DevOps",
+            "company": "TechCloud Solutions",
+            "domain": "informatique_reseaux",
+            "description": "Vous serez responsable de l'automatisation des déploiements et de la gestion de l'infrastructure cloud.",
+            "raw_score": 0.7,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.1,
+            "matched_skills": 2,
+            "score": 0.8999999999999999,
+            "domain_match": "✅"
+        }
+    ],
+    "api_success": false,
+    "parameters": {
+        "top_k": 3,
+        "min_score": 0.0,
+        "strict_threshold": false
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "timestamp": "2025-04-06T04:44:32.337096",
+    "cv_analysis": {
+        "main_domain": "informatique_reseaux",
+        "domain_scores": {
+            "informatique_reseaux": 0.65,
+            "automatismes_info_industrielle": 0.5,
+            "finance": 0.5142857142857142,
+            "genie_civil_btp": 0.5441176470588235,
+            "genie_industriel": 0.564516129032258
+        },
+        "skills": [
+            "python",
+            "docker",
+            "kubernetes",
+            "aws",
+            "azure",
+            "gcp",
+            "devops",
+            "ci/cd",
+            "jenkins",
+            "git",
+            "security",
+            "cloud"
+        ],
+        "is_fallback": true
+    },
+    "results": [
+        {
+            "id": "job001",
+            "rank": 1,
+            "title": "DevOps Engineer Senior",
+            "company": "TechCloud Solutions",
+            "domain": "informatique_reseaux",
+            "description": "Nous recherchons un ingénieur DevOps expérimenté pour gérer notre infrastructure cloud et améliorer nos pipelines CI/CD.",
+            "raw_score": 0.75,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.15,
+            "matched_skills": 3,
+            "score": 1.0,
+            "domain_match": "✅"
+        },
+        {
+            "id": "job003_var",
+            "rank": 4,
+            "title": "DevOps Engineer Senior (Variante 2) (Variante 3)",
+            "company": "TechCloud Solutions B C",
+            "domain": "informatique_reseaux",
+            "description": "Nous recherchons un ingénieur DevOps expérimenté pour gérer notre infrastructure cloud.",
+            "raw_score": 0.7,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.1,
+            "matched_skills": 2,
+            "score": 0.9,
+            "domain_match": "✅"
+        },
+        {
+            "id": "job003",
+            "rank": 3,
+            "title": "Ingénieur DevOps",
+            "company": "TechCloud Solutions",
+            "domain": "informatique_reseaux",
+            "description": "Vous serez responsable de l'automatisation des déploiements et de la gestion de l'infrastructure cloud.",
+            "raw_score": 0.7,
+            "domain_bonus": 0.1,
+            "skills_bonus": 0.1,
+            "matched_skills": 2,
+            "score": 0.8999999999999999,
+            "domain_match": "✅"
+        }
+    ],
+    "api_success": false,
+    "parameters": {
+        "top_k": 3,
+        "min_score": 0.0,
+        "strict_threshold": false
+    },
+    "indeed_results": {
+        "query": "(développeur OR devops OR ingénieur) \"python\" \"docker\" \"kubernetes\"",
+        "location": "France",
+        "date": "2025-04-06T04:44:33.015831",
+        "jobs": [
+            {
+                "title": "DevOps Engineer",
+                "company": "TechInnovate Solutions",
+                "location": "Paris, France",
+                "description": "Nous recherchons un ingénieur DevOps expérimenté pour gérer notre infrastructure cloud AWS et GCP. Vous serez responsable de la mise en place et de la maintenance des pipelines CI/CD, de l'automatisation des déploiements et de l'optimisation de nos infrastructures cloud. Compétences requises: Docker, Kubernetes, Terraform, CI/CD, Python.",
+                "salary": "55K€ - 75K€ par an",
+                "date_posted": "Il y a 3 jours",
+                "url": "https://www.indeed.com/viewjob?jk=123456789",
+                "tech_stack": [
+                    "AWS",
+                    "GCP",
+                    "Docker",
+                    "Kubernetes",
+                    "Terraform",
+                    "Python",
+                    "CI/CD",
+                    "Git"
+                ],
+                "match_score": 0.9,
+                "id": "indeed_3003906961",
+                "rank": 1
+            },
+            {
+                "title": "Ingénieur DevOps Kubernetes",
+                "company": "ContainerLabs",
+                "location": "Nantes, France",
+                "description": "Nous recherchons un ingénieur DevOps spécialisé en Kubernetes pour gérer et optimiser nos clusters de production. Vous serez responsable de l'automatisation des déploiements, de la mise en place de monitoring et de l'amélioration continue de notre infrastructure. Expérience avec Helm, Prometheus et Istio souhaitée.",
+                "salary": "60K€ - 80K€ par an",
+                "date_posted": "Il y a 3 jours",
+                "url": "https://www.indeed.com/viewjob?jk=654789123",
+                "tech_stack": [
+                    "Kubernetes",
+                    "Docker",
+                    "Helm",
+                    "Prometheus",
+                    "Grafana",
+                    "Istio",
+                    "GitOps",
+                    "ArgoCD"
+                ],
+                "match_score": 0.65,
+                "id": "indeed_391651365",
+                "rank": 2
+            },
+            {
+                "title": "Ingénieur Cloud AWS",
+                "company": "CloudNative Tech",
+                "location": "Marseille, France",
+                "description": "En tant qu'Ingénieur Cloud AWS, vous concevrez et déploierez des architectures cloud scalables et sécurisées. Vous travaillerez sur l'automatisation des infrastructures avec Terraform et CloudFormation, et participerez à l'optimisation des coûts et des performances. Certification AWS et expérience avec les services managés AWS requises.",
+                "salary": "60K€ - 80K€ par an",
+                "date_posted": "Il y a 2 jours",
+                "url": "https://www.indeed.com/viewjob?jk=456789123",
+                "tech_stack": [
+                    "AWS",
+                    "Terraform",
+                    "CloudFormation",
+                    "Lambda",
+                    "S3",
+                    "DynamoDB",
+                    "Python",
+                    "Docker"
+                ],
+                "match_score": 0.65,
+                "id": "indeed_4022270942",
+                "rank": 3
+            },
+            {
+                "title": "Développeur Backend Python",
+                "company": "DataTech Solutions",
+                "location": "Toulouse, France",
+                "description": "Nous recherchons un développeur backend Python pour rejoindre notre équipe produit. Vous travaillerez sur des API RESTful et des microservices, et serez responsable de la conception et de l'implémentation de nouvelles fonctionnalités. Expérience avec Django ou Flask et bonnes connaissances en bases de données requises.",
+                "salary": "45K€ - 60K€ par an",
+                "date_posted": "Il y a 1 semaine",
+                "url": "https://www.indeed.com/viewjob?jk=789123456",
+                "tech_stack": [
+                    "Python",
+                    "Django",
+                    "Flask",
+                    "PostgreSQL",
+                    "Redis",
+                    "Docker",
+                    "REST API",
+                    "Git"
+                ],
+                "match_score": 0.55,
+                "id": "indeed_519781691",
+                "rank": 4
+            },
+            {
+                "title": "Développeur Full Stack Senior",
+                "company": "WebDev Agency",
+                "location": "Lyon, France",
+                "description": "Rejoignez notre équipe de développement pour créer des applications web modernes et performantes. Vous travaillerez sur des projets variés utilisant React, Node.js et MongoDB. Nous recherchons un profil expérimenté capable de prendre en charge des fonctionnalités complexes et de mentorer des développeurs juniors.",
+                "salary": "50K€ - 65K€ par an",
+                "date_posted": "Il y a 5 jours",
+                "url": "https://www.indeed.com/viewjob?jk=987654321",
+                "tech_stack": [
+                    "JavaScript",
+                    "React",
+                    "Node.js",
+                    "MongoDB",
+                    "GraphQL",
+                    "REST API",
+                    "Git",
+                    "AWS"
+                ],
+                "match_score": 0.45,
+                "id": "indeed_2074943727",
+                "rank": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+FROM node:18-alpine
+
+WORKDIR /app
+
+# Installer les dépendances de base pour le développement
+RUN apk add --no-cache git bash
+
+# Port pour Next.js
+EXPOSE 3000
+
+# Le démarrage est défini dans docker-compose.yml 

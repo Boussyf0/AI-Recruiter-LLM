@@ -1,0 +1,98 @@
+{
+    "results": {
+        "cv_analysis": {
+            "domain_scores": {
+                "informatique_reseaux": 0.8200000000000001,
+                "automatismes_info_industrielle": 0.5,
+                "finance": 0.5,
+                "genie_civil_btp": 0.5,
+                "genie_industriel": 0.5
+            },
+            "main_domain": "informatique_reseaux",
+            "skills": [
+                "devops"
+            ]
+        },
+        "results": [
+            {
+                "rank": 1,
+                "id": "6d002f92-d78f-4893-8a9b-cfb9fc808446",
+                "title": "DevOps Engineer Senior",
+                "company": "TechCloud Solutions",
+                "location": "Paris, France",
+                "domain": "informatique_reseaux",
+                "domain_match": "✅",
+                "raw_score": 0.060933203,
+                "domain_bonus": 0.2,
+                "skills_bonus": 0.0,
+                "matched_skills": 0,
+                "score": 0.260933203,
+                "description": ""
+            },
+            {
+                "rank": 2,
+                "id": "8b05549f-62cf-4db7-831c-196b702c39c8",
+                "title": "Développeur Full Stack JavaScript",
+                "company": "WebTech Agency",
+                "location": "Lyon, France",
+                "domain": "informatique_reseaux",
+                "domain_match": "✅",
+                "raw_score": 0.04871761,
+                "domain_bonus": 0.2,
+                "skills_bonus": 0.0,
+                "matched_skills": 0,
+                "score": 0.24871761,
+                "description": ""
+            },
+            {
+                "rank": 3,
+                "id": "806e809c-255c-4def-ac92-4645ca2ab021",
+                "title": "Développeur Full Stack JavaScript",
+                "company": "WebTech Agency",
+                "location": "Lyon, France",
+                "domain": "informatique_reseaux",
+                "domain_match": "✅",
+                "raw_score": 0.045499936,
+                "domain_bonus": 0.2,
+                "skills_bonus": 0.0,
+                "matched_skills": 0,
+                "score": 0.245499936,
+                "description": ""
+            }
+        ],
+        "timestamp": "2025-04-06T04:23:17.580189"
+    },
+    "feedback": {
+        "job_ratings": [
+            {
+                "job_id": "6d002f92-d78f-4893-8a9b-cfb9fc808446",
+                "title": "DevOps Engineer Senior",
+                "system_score": 0.260933203,
+                "user_rating": 1,
+                "comment": "uu"
+            },
+            {
+                "job_id": "8b05549f-62cf-4db7-831c-196b702c39c8",
+                "title": "Développeur Full Stack JavaScript",
+                "system_score": 0.24871761,
+                "user_rating": 4,
+                "comment": "uyy"
+            },
+            {
+                "job_id": "806e809c-255c-4def-ac92-4645ca2ab021",
+                "title": "Développeur Full Stack JavaScript",
+                "system_score": 0.245499936,
+                "user_rating": 4,
+                "comment": "uuuip"
+            }
+        ],
+        "overall_rating": 4,
+        "comments": "hhh",
+        "domain": "informatique_reseaux",
+        "skills": [
+            "devops"
+        ],
+        "feedback_date": "2025-04-06T04:29:51.859822"
+    },
+    "timestamp": "2025-04-06T04:29:51.862087"
+}
